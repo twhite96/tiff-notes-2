@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/quotes/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/quotes/","noteIcon":""}
 ---
