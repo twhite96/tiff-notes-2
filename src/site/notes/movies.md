@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/","noteIcon":""}
+{"dg-publish":true,"permalink":"/movies/"}
 ---
 
 
