@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcast-clips/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/podcast-clips/","noteIcon":""}
 ---
 
 
