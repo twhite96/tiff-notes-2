@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideas/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/ideas/","noteIcon":""}
 ---
 
 
