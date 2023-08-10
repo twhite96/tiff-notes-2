@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nerds/","noteIcon":""}
+{"dg-publish":true,"permalink":"/nerds/"}
 ---
 
 
