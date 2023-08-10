@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nerds/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/nerds/","noteIcon":""}
 ---
 
 
