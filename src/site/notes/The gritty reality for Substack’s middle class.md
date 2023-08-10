@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-gritty-reality-for-substack-s-middle-class/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-gritty-reality-for-substack-s-middle-class/","noteIcon":""}
 ---
 
 
