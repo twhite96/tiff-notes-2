@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/interesting-tweets/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/interesting-tweets/","noteIcon":""}
 ---
 
 
