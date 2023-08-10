@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/make-content-for-yourself/","noteIcon":""}
+{"dg-publish":true,"permalink":"/make-content-for-yourself/"}
 ---
 
 
