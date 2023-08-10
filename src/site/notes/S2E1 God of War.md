@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/s2-e1-god-of-war/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/s2-e1-god-of-war/","noteIcon":""}
 ---
 
 
