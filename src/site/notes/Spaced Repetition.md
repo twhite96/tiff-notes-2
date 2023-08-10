@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaced-repetition/","noteIcon":""}
+{"dg-publish":true,"permalink":"/spaced-repetition/"}
 ---
 
 
