@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tiff-is-typing/","noteIcon":""}
+{"dg-publish":true,"permalink":"/tiff-is-typing/"}
 ---
 
 
