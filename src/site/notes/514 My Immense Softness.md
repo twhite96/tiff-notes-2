@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/514-my-immense-softness/","noteIcon":""}
+{"dg-publish":true,"permalink":"/514-my-immense-softness/"}
 ---
 
 
