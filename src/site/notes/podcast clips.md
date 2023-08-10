@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcast-clips/","noteIcon":""}
+{"dg-publish":true,"permalink":"/podcast-clips/"}
 ---
 
 
