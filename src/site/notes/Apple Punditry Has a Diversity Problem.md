@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/apple-punditry-has-a-diversity-problem/","noteIcon":""}
+{"dg-publish":true,"permalink":"/apple-punditry-has-a-diversity-problem/"}
 ---
 
 
