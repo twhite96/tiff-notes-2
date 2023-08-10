@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tweets-from-david-k/","noteIcon":""}
+{"dg-publish":true,"permalink":"/tweets-from-david-k/"}
 ---
 
 
