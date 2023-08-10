@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/suburban-smarts/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/suburban-smarts/","noteIcon":""}
 ---
 
 
