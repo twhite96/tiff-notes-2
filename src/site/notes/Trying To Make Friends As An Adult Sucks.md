@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trying-to-make-friends-as-an-adult-sucks/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/trying-to-make-friends-as-an-adult-sucks/","noteIcon":""}
 ---
 
 
