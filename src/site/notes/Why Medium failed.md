@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-medium-failed/","noteIcon":""}
+{"dg-publish":true,"permalink":"/why-medium-failed/"}
 ---
 
 ## Metadata
