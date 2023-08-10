@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tweets-from-david-k/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/tweets-from-david-k/","noteIcon":""}
 ---
 
 
