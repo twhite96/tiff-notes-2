@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gamer/","noteIcon":""}
+{"dg-publish":true,"permalink":"/gamer/"}
 ---
 
 
