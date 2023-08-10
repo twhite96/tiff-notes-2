@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/messy-thought-neat-thought/","noteIcon":""}
+{"dg-publish":true,"permalink":"/messy-thought-neat-thought/"}
 ---
 
 
