@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-these-notes/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/about-these-notes/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # About these notes
