@@ -16,3 +16,4 @@
 * I don’t even know where to start, I miss the times when my motivation to be friends was that the person lived vaguely close to me. Shared similar interests as me, or just went to the same school. Whereas now, everyone I speak to has busy lives, and we all carve very little time for just being friendly.
 * Online tools, and smartphone are great, they give me at least a sense of what I am missing, but can’t replace real connection.
 * but nothing replaces an in-person chat, or a hug.
+* Sure does
